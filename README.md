@@ -3,11 +3,8 @@
 
 <br>
 	
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 
-<br>
+
 
 <p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/></p>
 
@@ -22,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/syedmustafa026/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/muhammad-khurram-09707522a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
   <a href="https://fb.com/syedmustafa026" target="blank"><img align="center"
@@ -34,7 +31,7 @@
   <a href="https://www.hackerrank.com/syedmustafaahme2" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="syed mustafa" height="30" width="40" /></a>
- <a href="https://twitter.com/TweetsMustafa" target="blank"><img align="center"
+ <a href="https://twitter.com/itzkhurram367" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
